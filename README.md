@@ -29,7 +29,7 @@ Create a program that:
 
 Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
 
-# ex.4
+# ex.4 ✔️
 You've bought a Bitcoin and now it's on the rise!!!
 
 Create a program that:
