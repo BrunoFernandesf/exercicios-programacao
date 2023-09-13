@@ -18,7 +18,7 @@ Create a program that:
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
-# ex.3
+# ex.3 ✔️
 The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
 
 Create a program that:
