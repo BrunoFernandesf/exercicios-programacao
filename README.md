@@ -18,7 +18,7 @@ Create a program that:
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
-# ex.9
+# ex.3
 The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
 
 Create a program that:
@@ -29,7 +29,7 @@ Create a program that:
 
 Warning! Do not use the programming language magic. After you complete the exercise feel free to do so.
 
-# ex.3
+# ex.4
 You've bought a Bitcoin and now it's on the rise!!!
 
 Create a program that:
@@ -41,7 +41,7 @@ Create a program that:
 * Example: bitcoin_value = 10000, bitcoin_increase = 10
 * Output: total_bitcoin_value = 11000, bitcoin_increase_value = 1000
 
-# ex.4
+# ex.5
 You now own some property and you want to calculate the total area of the property.
 
 Create a program that:
@@ -51,7 +51,7 @@ Create a program that:
 * Example: width = 5, height = 2
 * Output: total_area = 10
 
-# ex.5
+# ex.6
 You are interested in buying crypto-currencies. You want to check the current amount of money you have and see how many coins you can buy in Bitcoin, Ethereum, and Litecoin.
 
 Create a program that:
@@ -64,7 +64,7 @@ Create a program that:
 
 (Warning! Τhe prices are made up for exercise purposes)
 
-# ex.6
+# ex.7
 You are interested in buying a new laptop. You check the price and you see that the price is 300$ without the 10% tax.
 
 Create a program that:
@@ -74,7 +74,7 @@ Create a program that:
 
 * Output: "The total price of the laptop is 330$"
 
-# ex.7
+# ex.8
 In a company the monthly salary of an employee is calculated by: the minimum wage 400$ per month, plus 20$ multiplied by the number of years employed, plus 30$ for each child they have.
 
 Create a program that:
@@ -84,7 +84,7 @@ Create a program that:
 
 * Output: "The total amount is 560$. 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
 
-# ex.8
+# ex.9
 The exercise is almost identical to a previous exercise with a minor change. In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid, plus 100$ if the employee didn't miss 1 day of work.
 
 Create a program that:
