@@ -1,4 +1,4 @@
-# ex.1
+# ex.1 ✔️
 Create two variables a and b, and initially set them each to a different number. Write a program that swaps both values.
 
 * Example: a = 10, b = 20
@@ -6,7 +6,7 @@ Create two variables a and b, and initially set them each to a different number.
 
 Warning! Do not use the programming language MAGIC. After you complete the exercise feel free to do so.
 
-# ex.2
+# ex.2 ✔️
 It's the end of the semester and you got your grades from three classes: Geometry, Algebra, and Physics.
 
 Create a program that:
