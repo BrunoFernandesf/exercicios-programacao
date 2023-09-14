@@ -64,7 +64,7 @@ Create a program that:
 
 (Warning! Τhe prices are made up for exercise purposes)
 
-# ex.7
+# ex.7✔️
 You are interested in buying a new laptop. You check the price and you see that the price is 300$ without the 10% tax.
 
 Create a program that:
@@ -74,7 +74,7 @@ Create a program that:
 
 * Output: "The total price of the laptop is 330$"
 
-# ex.8
+# ex.8✔️
 In a company the monthly salary of an employee is calculated by: the minimum wage 400$ per month, plus 20$ multiplied by the number of years employed, plus 30$ for each child they have.
 
 Create a program that:
@@ -84,7 +84,7 @@ Create a program that:
 
 * Output: "The total amount is 560$. 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids"
 
-# ex.9
+# ex.9✔️
 The exercise is almost identical to a previous exercise with a minor change. In a company the monthly salary of an employee is calculated by minimum wage 400$ per month, plus 20$ multiply by the employment years, plus 30$ for each employee kid, plus 100$ if the employee didn't miss 1 day of work.
 
 Create a program that:
@@ -93,7 +93,7 @@ Create a program that:
 * Prints the total amount the employee must take
 * Output: "The total amount is 660$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids + 100$ for not missing a day at work"
 
-# ex.10
+# ex.10✔️
 Create a program that prints the last digit of a given integer
 
 Create a program that:
