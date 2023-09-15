@@ -106,7 +106,7 @@ Warning! Don't try to convert the number into string etc.
 
 Warning! For this problem it's ok after spending some time to look for the solution.
 
-# ex.11
+# ex.11✔️
 You have started working and you are wondering how many things you can buy with the money you've earned. A PS4 costs 200$, a Samsung phone 900$, a TV 500$, a game skin 9.99$
 
 Create a program:
@@ -116,7 +116,7 @@ Create a program:
 * Prints how many items you can buy
 * Output: "I can buy 4 PS4, 1 Samsung, 3 TV, 80 game skin"
 
-# ex.12
+# ex.12✔️
 You've consumed X amount of Mbps on Wikipedia and Y amount of Mbps on memes. The cost of visiting Wikipedia is 0,10$ per Mb
 and the cost for watching memes is 0,05$ per Mb. If total consumption  is more than 100$ print "Too much consumption".
 If watching meme consumption is greater than reading wikipedia consumption print "WOW MANY MEMES", "SUCH LOL"(in new line).
@@ -129,7 +129,7 @@ Create a program that:
 
 Warning! For the greater meme consumption you will use one print statement and the output must be in seperate lines
 
-# ex.13
+# ex.13✔️
 An internet cafe has 2 ways of charging. If the user is a member pays 2$/hour, Else the user pays 5$. Find if someone is a member or not and calculate the price based on how many hours the user spend. If the user is a member the tax is 10% else the tax is 20%.
 
 Create a program that:
@@ -139,7 +139,7 @@ Create a program that:
 * Print the total amount the user has to pay
 * Output: "The user is a member stayed 2 hours for 2$/hour plus the 10% the total amount is 4.4$"
 
-# ex.14
+# ex.14✔️
 You want to buy something from Amazon. The seller charges different prices for shipping cost based on location. For US it's 5$ for Europe it's 7$ for Canada it's 3$ for other places it's 9$
 
 Create a program that:
@@ -148,7 +148,7 @@ Create a program that:
 * Print the amount of money you have to pay
 * Ouput: "You have to pay 23$, 20$ for the product and 3$ for shipping cost"
 
-# ex.15
+# ex.15✔️
 A cell phone company has the following billing policy
 
 |  | Fixed cost 25$  |
