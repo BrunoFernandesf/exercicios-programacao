@@ -166,7 +166,7 @@ Create a program that:
 
 #### Notice that that the charge for the first 500 seconds it's 0,01$ then for the next 501 to 800 seconds it's 0,008 and then it's 0,005$
 
-# ex.16
+# ex.16✔️
 A fast food chain has these meals
 
 | Meal | Price  |
