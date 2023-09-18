@@ -181,7 +181,7 @@ Create a program that:
 * Input example: "Hot Dog"
 * Output: "Hot Dog 1,50$"
 
-# ex.17
+# ex.17✔️
 Create a program that:
 * Calculates the sum of 1+2+3+4...+98+99
 * Prints the sum of 1+2+3+4...+98+99
