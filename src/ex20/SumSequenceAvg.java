@@ -6,9 +6,9 @@ public class SumSequenceAvg {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int start = 1;
-        double sum = 0;
+        int sum = 0;
         double avg = 0;
-        double i = 0;
+        int i = 0;
 
         System.out.println("Digite o número límite");
         int end = input.nextInt();
@@ -17,7 +17,7 @@ public class SumSequenceAvg {
             System.out.println(i);
             sum += i;
         }
-        avg = sum / i;
+        avg = (double) sum / i;
 
         System.out.println("A soma dos números é: "+sum);
         System.out.println("Aa média doss números é: "+avg);

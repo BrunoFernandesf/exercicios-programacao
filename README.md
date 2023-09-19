@@ -214,7 +214,7 @@ Create a program that:
 * Input example: 100
 * Output: "The average is 50.5"
 
-# ex.21
+# ex.21✔️
 Create a program that reads 5 numbers and find the average of these numbers
 
 Create a program that:
