@@ -187,12 +187,12 @@ Create a program that:
 * Prints the sum of 1+2+3+4...+98+99
 * Output: "The sum is 4950"
 
-# ex.18
+# ex.18✔️
 * Calculates the sum of 1+3+5+7...+99+101
 * Prints the sum of 1+3+5+7...+99+101
 * Output: "The sum is 2601"
 
-# ex.19
+# ex.19✔️
 Create a program that reads a number that you want to get the sum until that number
 
 Create a program that:
@@ -204,7 +204,7 @@ Create a program that:
 
 ###### Try the program with a very very big number, [if it takes too long check this out](http://mathcentral.uregina.ca/qq/database/qq.02.06/jo1.html)
 
-# ex.20
+# ex.20✔️
 Create a program that reads a number that you want to get the sum until that number and then calculate the averge of these numbers
 
 Create a program that:
