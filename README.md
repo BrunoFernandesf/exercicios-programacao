@@ -223,7 +223,7 @@ Create a program that:
 * Input example: 4, 6, 1, 4, 9
 * Ouput: "the average is 4.8"
 
-# ex.22
+# ex.22✔️
 Create a program that reads 5 numbers and prints if the number is negative or positive
 
 Create a program that:
@@ -232,7 +232,7 @@ Create a program that:
 * Input example: 4, 6, -11, -4, 9
 * Ouput: "Positive", "Positive", "Negative", "Negative", "Positive",
 
-# ex.23
+# ex.23✔️
 Create a program that reads numbers and sum them until the user inputs a negative value
 
 Create a program that:
@@ -242,7 +242,7 @@ Create a program that:
 * Input example: 5, 9, 3, 0, 2, 0, 4, -7
 * Output: "The sum is 23"
 
-# ex.24
+# ex.24✔️
 Create a program that reads numbers and sum them until the user inputs a negative value or zero value
 
 Create a program that:
