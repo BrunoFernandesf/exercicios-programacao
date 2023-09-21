@@ -252,7 +252,7 @@ Create a program that:
 * Input example: 5, 9, 3, 7, 0
 * Output: "The sum is 24"
 
-# ex.25
+# ex.25✔️
 You start flipping a coin, count and print how many times the result was head or tails until you enter the word "stop". Then find and print the percentage of how many head or tails was the result.
 
 Create a program that:
