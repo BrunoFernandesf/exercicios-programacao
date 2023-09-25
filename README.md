@@ -266,7 +266,7 @@ Create a program that:
 * Ouput: "Head won 4 times and tails won 6 times"
 * Output: "40% Head, 60% Tails"
 
-# ex.26
+# ex.26✔️
 Create a program that read values of apartments you want to rent until the inpute value is 0 or a negative number.
 
 You will calculate the average price for rent and how many apartments you've registered. Print the proper message.
