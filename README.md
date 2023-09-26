@@ -286,7 +286,7 @@ Create a program that:
 * Input: 500, 200, 350, 450, 0, -7
 * Output: "Above average price", "Above below price", "Above below price", "Above average price", "Quit Program","Quit Program"
 
-# ex.27
+# ex.27✔️
 Create a program that register a user with a username and a password. Then the user will try to login with the login credentials. If the user make 3 wrong attempts exit program with proper message.
 
 Create a program that:
