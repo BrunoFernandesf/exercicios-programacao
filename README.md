@@ -303,7 +303,7 @@ Create a program that:
 * Input: 3, -7
 * Output: 3, 2, 1, Go! - Exit Program
 
-# ex.29
+# ex.29✔️
 A Park Garage company asked you to create a program that asks if the driver is a member and then charge the driver with 1,5$ fixed cost, if the driver is not a member the fixed cost is 3$. Make sure to keep asking if the driver enters the proper response
 
 Then asks the driver how many hours have parked. For the 1st hour the cost is 2$, for the 2nd hour the price is 1,5$ for the 3rd hour the price is 1$. From the 4th hour and after the cost is 0.5$ per hour. Make sure to keep asking the driver enters a valid value.
