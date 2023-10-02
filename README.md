@@ -323,7 +323,7 @@ Create a program that:
 * Output: "Total amount is 7,5$"
 * Output: "1 Driver payed. The total earnings are 7,5$"
 
-# ex.30
+# ex.30✔️
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find the employees with the maximum salary and print who they are.
 
 Create a program that:
