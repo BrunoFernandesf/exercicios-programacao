@@ -335,7 +335,7 @@ Create a program that:
 
 #### Notice that we have to find the maximum salary and then compare the salaries in case someone has the exactly same salary with someone else.
 
-# ex.31
+# ex.31✔️
 The previous exercise but store the names and salaries into one list.
 
 * Input : [Mary, 2343 John, 2134, George, 5342, Nicole, 5342]
