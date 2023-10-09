@@ -343,10 +343,10 @@ The previous exercise but store the names and salaries into one list.
 
 #### Notice that if the programming language you are using doesn't support different kind of values in lists try to store the numbers as characters and convert to numbers when you want to compare
 
-# ex.32
+# ex.32✔️
 you have a list with domain names and an other list with domain extension. also possible combinations.
 
-# ex.33
+# ex.33✔️
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before the exit find and print the total number of employees and the total amount company is paying in salaries.
 
 Create a program that:
