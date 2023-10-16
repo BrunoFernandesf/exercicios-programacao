@@ -356,7 +356,7 @@ Create a program that:
 * Input: [Mary, John, George, Nicole], [2343, 2134, 5342, 5342]
 * Output: "4 employees and the total amount of salaries is 15161$"
 
-# ex.34
+# ex.34✔️
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary.
 
 Create a program that:
