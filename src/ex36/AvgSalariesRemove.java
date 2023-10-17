@@ -35,22 +35,24 @@ public class AvgSalariesRemove {
         System.out.printf("%.2f %n", totalSal);
         System.out.println("---------------------");
 
-        for(int i = 0; i<listaSal.size(); i++){
-            if(listaSal.get(i) < totalSal){
-                System.out.println(listaNomes.get(i) +" é abaixo da média" );
-                listaNomes.remove(i);
-                listaSal.remove(i);
+        for (int i = 0; i < listaSal.size(); i++) {
+            if (listaSal.get(i) < totalSal) {
+                System.out.println(listaNomes.get(i) + " é abaixo da média");
                 listaRemov.add(listaNomes.get(i));
-                listaRemov.add(String.valueOf(listaSal.get(i)));
-            }
-            else {
-                System.out.println(listaNomes.get(i) +" é acima da média");
+            } else {
+                System.out.println(listaNomes.get(i) + " é acima da média");
             }
         }
-        System.out.println(listaNomes);
-        System.out.println(listaSal);
 
-        //System.out.println(listaRemov);
+        for (String name : listaRemov) {
+            int index = listaNomes.indexOf(name);
+            listaNomes.remove(index);
+            listaSal.remove(index);
+        }
+
+        System.out.println("Total Employees: " + listaNomes.size());
+        System.out.println("Removed Employees: " + listaRemov.size());
+        System.out.println("Remaining Employees: " + listaNomes);
     }
 }
 

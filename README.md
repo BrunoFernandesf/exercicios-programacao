@@ -377,7 +377,7 @@ Create a program that:
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
 * Output: "Total Employees: 2"
 
-# ex.36
+# ex.36✔️
 A company asked you to create a program that reads an employee name and salary and store them into proper lists.The number of employees is unknown. To exit the program the user must input "quit". Before exit find the average salary and for each employee print if their salary is above or below average salary. If the employee have above average salary then remove the employee from the list and put the employee in to a new list. Print the total number of current employees and removed emloyees
 
 Create a program that:
@@ -390,7 +390,7 @@ Create a program that:
 * Output: "The average salary is 3790.25$", "Mary's salary is below average","John's salary is below average","George's salary is above average","Nicole's salary is above average"
 * Output: "Total Employees: 2", "Removed Employees: 2"
 
-# ex.37
+# ex.37✔️
 You have these lists of empoyees and their salaries: names[Mary, John, George, Nicole, Nick, Jim, Jack, Johanna], salaries[32343, 12134, 25342, 35342, 42343, 32134, 15342, 25342]
 
 Create a program that:
