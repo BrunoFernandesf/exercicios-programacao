@@ -398,7 +398,7 @@ Create a program that:
 * Prints all employees in order by lowest salary first
 * Output: "later when I run the script"
 
-# ex.38
+# ex.38✔️
 Create a program that stores all [Morse Code](https://en.wikipedia.org/wiki/Morse_code) into a dictionary. Then
 asks the user for an input text and translate to Morse Code.
 
