@@ -414,7 +414,7 @@ Create a program that asks if the user want to translate a text **from Morse Cod
 
 #### [Here you can find online Morse Code translator](https://morsecode.scphillips.com/translator.html)
 
-# ex.40
+# ex.40✔️
 Here is [Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet). Create a program that stores the all the abrevations into a dictionary. Next asks the user for a word and then print the right words for each letter of the given word
 
 Create a program that:
