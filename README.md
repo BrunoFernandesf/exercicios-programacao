@@ -409,7 +409,7 @@ Create a program that:
 * Input example: "Python Rocks"
 * Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
 
-# ex.39
+# ex.39✔️
 Create a program that asks if the user want to translate a text **from Morse Code** or **to Morse Code**
 
 #### [Here you can find online Morse Code translator](https://morsecode.scphillips.com/translator.html)
@@ -426,10 +426,10 @@ Create a program that:
 
 #### [Here you can find Nato Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 
-# ex.41
+# ex.41✔️
 Create a program that asks if the user want to translate a text **from Nato Phonetic Alphabet** or **to Nato Phonetic Alphabet**
 
-# ex.42
+# ex.42✔️
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -440,7 +440,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.43
+# ex.43✔️
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
