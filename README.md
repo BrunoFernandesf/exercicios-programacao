@@ -452,7 +452,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.44
+# ex.44✔️
 A user account on a website is composed by a username, a password, if the user has profile picture, and the email.
 
 Create a program:
@@ -464,7 +464,7 @@ Create a program:
 
 #### Notice that the structure is like this users[username] = {'password': password, 'hasPhoto': hasPhoto, 'email': email}, word not in quotes are variables.
 
-# ex.45
+# ex.45✔️
 A user account on a company's website is composed by a username, a password, salary, and the email.
 A company asks you to create a program that create a user, ask for username,password,salary, email and check if the username or email already exists.
 
