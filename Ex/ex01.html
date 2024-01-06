@@ -1,0 +1,32 @@
+/*ex.1
+Create two variables a and b, and initially set them each to a different number. Write a program that swaps both values.
+
+* Example: a = 10, b = 20
+* Output: a = 20, b = 10*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex01</title>
+</head>
+<body>
+    <div onclick="trocaRes()" class="resposta" style="background-color: blue; width: 100px; height: 100px;"></div>
+    <script>
+        function trocaRes() {
+            var a = 10;
+            var b = 20;
+            let c = 0
+            
+            c = b
+            b = a;
+            a = c;
+            
+            console.log(a,b);
+            alert("a = "+ a + ", b = "+ b)
+        }
+    </script>
+</body>
+</html>
+
