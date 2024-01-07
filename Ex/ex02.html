@@ -8,3 +8,25 @@ Create a program that:
 * Example: Geometry = 6, Algebra = 7, Physics = 8
 * Output: average_score = 7 */
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex02</title>
+</head>
+<body>
+    <script>
+        var geometry
+        var algebra
+        var physics
+
+        geometry = parseFloat(prompt("Digite a sua nota de Geometria"));
+        algebra = parseFloat(prompt("Digite a sua nota de Algebra"));
+        physics = parseFloat(prompt("Digite a sua nota de Física"));
+
+        var avg = (geometry + algebra + physics) / 3;
+        alert("A sua média é: "+ avg);
+    </script>
+</body>
+</html>
