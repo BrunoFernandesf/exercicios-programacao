@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex03</title>
+</head>
+<body>
+    <!--
+    The exercise is almost identical to a previous exercise with a minor change. It's the end of the semester and you got your marks from, Geometry, Algebra, Physics classes. If the average score is 7 and above print "Good job!", if the average score is between 6 and 4 print "You need to work harder!", if the average score is below 4 print "Failed, you really need to work harder!".
+
+    Create a program that:
+    * Reads the values of these 3 lessons
+    * Calculate the average of your grades
+    * Example: Geometry = 6, Algebra = 7, Physics = 8
+    * Output: Your average score is 7, Good job!"
+    -->
+    <div class="result">
+
+    </div>
+    <script>
+        var geometry;
+        var algebra;
+        var physics;
+
+        var avg;
+
+        mensagem = document.querySelector('.result');
+
+
+        geometry = parseFloat(prompt('Digite a nota de Geometria'));
+        algebra = parseFloat(prompt('Digite a nota de algebra'));
+        physics = parseFloat(prompt('Digite a nota de física'));
+
+        avg = (geometry + algebra + physics) / 3;
+
+        if(avg >= 7) {
+            mensagem.textContent = 'Bom trabalho';
+        }
+
+        else if(avg >= 4 && avg <= 6) {
+            mensagem.textContent = 'Você precisa se dedicar mais';
+        }
+
+        else {
+            mensagem.textContent = 'Você falhou, realmente precisa se dedicar!';
+        }
+
+    </script>
+</body>
+</html>
