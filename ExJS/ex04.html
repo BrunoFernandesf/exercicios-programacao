@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex04</title>
+</head>
+<body>
+    <!--# ex.4
+You've bought a Bitcoin and now it's on the rise!!!
+
+Create a program that:
+1) Reads the value of the bitcoin at the time of purchase
+2) Reads the percentage of increase (or decrease)
+3) Prints the total value of your bitcoin
+4) Prints the increase or decrease value
+
+* Example: bitcoin_value = 10000, bitcoin_increase = 10
+* Output: total_bitcoin_value = 11000, bitcoin_increase_value = 1000
+-->
+    <div class="response">
+
+    </div>
+<script>
+    var bitValue;
+    var increase;
+    var bitcointIncrease;
+    var result;
+    var response = document.querySelector('.response');
+
+
+    bitValue = parseFloat(prompt("Digite o valor do bitcoin: "));
+    increase = parseFloat(prompt("Digite o percentual de aumento ou diminuição: "));
+    bitcointIncrease = bitValue * (increase/100);
+
+    result = bitValue + bitcointIncrease;
+    response.textContent = "Valor final: "+ result + " Acrescimo: "+ increase;
+
+    console.log(bitValue);
+    console.log(increase);
+    console.log(bitcointIncrease);
+    console.log(result);
+</script>
+</body>
+</html>
