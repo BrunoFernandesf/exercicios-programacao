@@ -41,7 +41,7 @@ Create a program that:
 * Example: bitcoin_value = 10000, bitcoin_increase = 10
 * Output: total_bitcoin_value = 11000, bitcoin_increase_value = 1000
 
-# ex.5
+# ex.5✔️
 You now own some property and you want to calculate the total area of the property.
 
 Create a program that:
