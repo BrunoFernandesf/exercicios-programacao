@@ -51,7 +51,7 @@ Create a program that:
 * Example: width = 5, height = 2
 * Output: total_area = 10
 
-# ex.6
+# ex.6✔️
 You are interested in buying crypto-currencies. You want to check the current amount of money you have and see how many coins you can buy in Bitcoin, Ethereum, and Litecoin.
 
 Create a program that:
