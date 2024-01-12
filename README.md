@@ -64,7 +64,7 @@ Create a program that:
 
 (Warning! Τhe prices are made up for exercise purposes)
 
-# ex.7
+# ex.7✔️
 You are interested in buying a new laptop. You check the price and you see that the price is 300$ without the 10% tax.
 
 Create a program that:
