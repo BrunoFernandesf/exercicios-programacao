@@ -93,7 +93,7 @@ Create a program that:
 * Prints the total amount the employee must take
 * Output: "The total amount is 660$, 400$ minimum wage + 100$ for 5 years experience + 60$ for 2 kids + 100$ for not missing a day at work"
 
-# ex.10
+# ex.10✔️
 Create a program that prints the last digit of a given integer
 
 Create a program that:
