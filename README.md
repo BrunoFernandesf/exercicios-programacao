@@ -116,7 +116,7 @@ Create a program:
 * Prints how many items you can buy
 * Output: "I can buy 4 PS4, 1 Samsung, 3 TV, 80 game skin"
 
-# ex.12
+# ex.12✔️
 You've consumed X amount of Mbps on Wikipedia and Y amount of Mbps on memes. The cost of visiting Wikipedia is 0,10$ per Mb
 and the cost for watching memes is 0,05$ per Mb. If total consumption  is more than 100$ print "Too much consumption".
 If watching meme consumption is greater than reading wikipedia consumption print "WOW MANY MEMES", "SUCH LOL"(in new line).
