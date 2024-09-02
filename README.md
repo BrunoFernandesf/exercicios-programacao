@@ -251,3 +251,68 @@ Example 2:
 
 Input: address = "255.100.50.0"
 Output: "255[.]100[.]50[.]0"
+
+
+You are given two integer arrays of equal length target and arr. In one step, you can select any non-empty subarray of arr and reverse it. You are allowed to make any number of steps.
+
+Return true if you can make arr equal to target or false otherwise.
+
+ 
+# ex.20✔️
+Example 1:
+
+Input: target = [1,2,3,4], arr = [2,4,1,3]
+Output: true
+Explanation: You can follow the next steps to convert arr to target:
+1- Reverse subarray [2,4,1], arr becomes [1,4,2,3]
+2- Reverse subarray [4,2], arr becomes [1,2,4,3]
+3- Reverse subarray [4,3], arr becomes [1,2,3,4]
+There are multiple ways to convert arr to target, this is not the only way to do so.
+Example 2:
+
+Input: target = [7], arr = [7]
+Output: true
+Explanation: arr is equal to target without any reverses.
+Example 3:
+
+Input: target = [3,7,9], arr = [3,7,11]
+Output: false
+Explanation: arr does not have value 9 and it can never be converted to target.
+
+# ex.21✔️
+Given the array XADREZ [8X8], write an algorithm using loop to fill the Matrix
+    1 2 3 4 5 6 7 8
+1   x   x   x   x  
+2     x   x   x   x
+3   x   x   x   x  
+4      x   x   x   x  
+5   x   x   x   x  
+6      x   x   x   x  
+7   x   x   x   x  
+8      x   x   x   x  
+
+# ex.22✔️
+Given the Matrice RETANGULO [14X11], write an algorithm using loop to fill the Matrix
+    1 2 3 4 5 6 7 8 9 10 11
+1   
+2     
+3       R R R R R R
+4       R R R R R R
+5       R R R R R R
+6       R R R R R R
+7       R R R R R R
+8       R R R R R R
+9       R R R R R R
+10      R R R R R R
+11      R R R R R R
+12
+13
+14
+
+# ex.23✔️
+Given the Matrice TRIANGULO [4X4], write an algorithm using loop to fill the Matrix
+    1 2 3 4
+1   X 
+2   X X  
+3   X X X    
+4   X X X X
